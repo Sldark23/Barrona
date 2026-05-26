@@ -1,4 +1,4 @@
-db["mesage"] = "oi"
+
 from replit import db
 import discord
 import os
